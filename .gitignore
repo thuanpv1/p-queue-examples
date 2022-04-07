@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+out/
+node_modules/
+# Maven build output folder
+/target/
+
+# IntelliJ project folder
+intellij/
+.idea/
+*.iml
+local.properties
+
+# Output file when rendering ReadMe.md locally.
+/ReadMe.html
+
+# editor temp files
+*~
+
+# pyc files from generator
+*.pyc
+
+# ClassyShark
+classyshark*
+
+# macOS
+*.DS_Store
